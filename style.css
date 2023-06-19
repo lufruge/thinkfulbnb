@@ -48,6 +48,7 @@ main img {
 
 .item-double {
   flex: 2;
+  display: flex;
 }
 
 .item img {
